@@ -1,0 +1,32 @@
+//
+//  Conversation.m
+//  msgs
+//
+//  Created by Lewis Zimmerman on 10-12-26.
+//  Copyright 2010 Qorporation. All rights reserved.
+//
+
+#import "Conversation.h"
+
+#import <Three20Core/TTCorePreprocessorMacros.h>
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////
+@implementation Conversation
+
+@synthesize ident;
+@synthesize label;
+@synthesize text;
+@synthesize time;
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+- (void)dealloc {
+	TT_RELEASE_SAFELY(ident);
+	TT_RELEASE_SAFELY(label);
+	TT_RELEASE_SAFELY(text);
+	TT_RELEASE_SAFELY(time);
+	
+	[super dealloc];
+}
+
+@end

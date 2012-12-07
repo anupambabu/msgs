@@ -1,0 +1,140 @@
+TWiTap
+v7
+r1
+cCheck dependencies
+
+N/Dropbox/msgs/iphone/ref/WiTap/Images/Default.png
+c000000004C38FA050000000000003282
+t1278802437
+s12930
+
+N/Dropbox/msgs/iphone/ref/WiTap/Images/Icon-72.png
+c000000004C38FA050000000000000427
+t1278802437
+s1063
+
+N/Dropbox/msgs/iphone/ref/WiTap/Images/Icon-Small-50.png
+c000000004C38FA0500000000000003E0
+t1278802437
+s992
+
+N/Dropbox/msgs/iphone/ref/WiTap/Images/Icon-Small.png
+c000000004C38FA050000000000000396
+t1278802437
+s918
+
+N/Dropbox/msgs/iphone/ref/WiTap/Images/Icon-Small@2x.png
+c000000004C38FA0500000000000003F2
+t1278802437
+s1010
+
+N/Dropbox/msgs/iphone/ref/WiTap/Images/Icon.png
+c000000004C38FA0500000000000003EF
+t1278802437
+s1007
+
+N/Dropbox/msgs/iphone/ref/WiTap/Images/Icon@2x.png
+c000000004C38FA0500000000000004E4
+t1278802437
+s1252
+
+N/Dropbox/msgs/iphone/ref/WiTap/Images/bg.png
+c000000004C38FA0500000000000001BB
+t1278802437
+s443
+
+N/Dropbox/msgs/iphone/ref/WiTap/Images/iTunesArtwork
+c000000004C38FA050000000000001444
+t1278802437
+s5188
+
+N/Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app
+t2
+s0
+
+N/Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app/Contents/Info.plist
+t2
+s0
+
+N/Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app/Contents/PkgInfo
+t2
+s0
+
+N/Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app/Contents/Resources/Icon-72.png
+t2
+s0
+
+N/Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app/Contents/Resources/Icon-Small-50.png
+t2
+s0
+
+N/Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app/Contents/Resources/bg.png
+t2
+s0
+
+N/Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app/Contents/Resources/iTunesArtwork
+t2
+s0
+
+NInfo.plist
+c000000004C38E97F00000000000003D4
+t1278798207
+s980
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315298069#315298069#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.1'1(4@58"error: There is no SDK with the name or path 'iphoneos4.1'315298069#18446744073709551615#0#0(1@0"0(0#1#0"8615779296#0"0#
+
+CCpResource build/Debug/WiTap.app/Contents/Resources/Default.png Images/Default.png
+r0
+
+CCpResource build/Debug/WiTap.app/Contents/Resources/Icon-72.png Images/Icon-72.png
+r0
+
+CCpResource build/Debug/WiTap.app/Contents/Resources/Icon-Small-50.png Images/Icon-Small-50.png
+r0
+
+CCpResource build/Debug/WiTap.app/Contents/Resources/Icon-Small.png Images/Icon-Small.png
+r0
+
+CCpResource build/Debug/WiTap.app/Contents/Resources/Icon-Small@2x.png Images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/WiTap.app/Contents/Resources/Icon.png Images/Icon.png
+r0
+
+CCpResource build/Debug/WiTap.app/Contents/Resources/Icon@2x.png Images/Icon@2x.png
+r0
+
+CCpResource build/Debug/WiTap.app/Contents/Resources/bg.png Images/bg.png
+r0
+
+CCpResource build/Debug/WiTap.app/Contents/Resources/iTunesArtwork Images/iTunesArtwork
+r0
+
+CProcessInfoPlistFile /Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Dropbox/msgs/iphone/ref/WiTap/build/Debug/WiTap.app
+r0
+

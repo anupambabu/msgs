@@ -1,0 +1,37 @@
+-- this is fairly old school work yo --
+
+i'm not gonna go too far into this, but basically, way back when i jumped
+from blackberry, with its beautiful bbm and essay-writer-worthy keyboard,
+to an iphone, with its, touchscreen, i couldn't help but feel like i had
+lost a limb feeling constantly disconnected from all the people i used to
+talk to on bbm and a persistent gtalk connection.
+
+and since i've always been up on the utopia that technology can help enable
+by means of providing amazing ways to communicate with each other, seamlessly,
+i got all up on this idea of "omnipresence" and decided i was gonna stitch
+back my missing limb, by building a cross platform messaging platform that
+didn't suck, to me, in the way i felt all the other ones did (especially on
+the iphone, with its background-app-forcing, connection-dropping goodness,
+which i was gonna try to get around using the whole voip thing, which long 
+term was part of my plan towards this whole omnipresence thing).
+
+but turns out, i didn't like reading, plus i hated the blackberry "sdk",
+especially because i don't like windows, so even though the clients for
+the iphone and the berry got "complete" enough to barely function as messaging
+apps, they well, barely functioned, and turns out that trying to finish that
+kinda stuff while you're working at a game studio in "ship" mode
+(read: long days, where at the end of them, there's not even a hallway between 
+getting through the door back home each day and face first into bed, which,
+as a sentence, probably just made absolutely no grammatical sense whatsoever).
+
+plus, other apps got better enough so i just relaxed and didn't worry about
+having to actually make the paranoia-ly lossless history synchronization protocol
+efficient in any way whatsoever -- score!
+
+anyways, standard disclaimer:
+
+there's a bunch of extra junk in here you probably don't need to run it,
+while on the other hand, its probably missing some stuff you do
+(as well as any explanation of how all this junk works,
+license information that i probably stripped from a bunch of files
+and any sort of sanity). so funny.

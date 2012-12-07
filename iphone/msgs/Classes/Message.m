@@ -1,0 +1,32 @@
+//
+//  Message.m
+//  msgs
+//
+//  Created by Lewis Zimmerman on 11-01-23.
+//  Copyright 2011 Qorporation. All rights reserved.
+//
+
+#import "Message.h"
+
+#import <Three20Core/TTCorePreprocessorMacros.h>
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////
+@implementation Message
+
+@synthesize ident;
+@synthesize label;
+@synthesize text;
+@synthesize time;
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+- (void)dealloc {
+	TT_RELEASE_SAFELY(ident);
+	TT_RELEASE_SAFELY(label);
+	TT_RELEASE_SAFELY(text);
+	TT_RELEASE_SAFELY(time);
+	
+	[super dealloc];
+}
+
+@end
